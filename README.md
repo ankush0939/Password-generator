@@ -18,9 +18,9 @@ but in case of unavailability use the above command to install
 
 ### Import Libraries
 
-from tkinter import *
-import random, string
-import pyperclip
+from tkinter import * <br>
+import random, string <br>
+import pyperclip <br>
 
 
 ### Initialize Window
